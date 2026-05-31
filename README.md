@@ -1,4 +1,4 @@
-# Hi, I'm Ashwani Mishra 👋
+# Hi, I'm Ashwani Mishra 
 
  MERN Stack Developer
 
